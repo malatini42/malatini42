@@ -1,4 +1,9 @@
-### Hi there 👋
+### Presentation 👋
+
+<h1 align="center">I'm Mahaut, a 42 Paris Student</h1>
+<p align="center"> <br> Hi there ! You find here my school and own projects ! </br>
+Feel free to have a look, follow me, even contact me ! 😊
+</p>
 
 <!--
 **malatini42/malatini42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
