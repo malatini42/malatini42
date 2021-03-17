@@ -4,9 +4,6 @@
 <p align="center"> Hi there ! You find here my school and own projects !
 Feel free to have a look, follow me, even contact me ! 😊
 </p>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Malatini42&show_icons=true&count_private=true" alt="malatini42" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malatini42&layout=compact" alt="malatini42" /> </p>
 <!--
 **malatini42/malatini42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
