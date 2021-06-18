@@ -1,6 +1,6 @@
 ### Presentation 👋
 
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&leet_logo=hide&login=malatini](https://linkedin.com/in/mahautlatinis)
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&leet_logo=hide&login=malatini)](https://linkedin.com/in/mahautlatinis)
 
 <h1 align="center">I'm Mahaut</h1>
 <p align="center"> You find here my school and own projects. Feel free to have a look.</p>
