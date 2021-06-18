@@ -1,10 +1,9 @@
 ### Presentation 👋
 
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&leet_logo=hide&login=malatini](https://linkedin.com/in/mahautlatinis)
+
 <h1 align="center">I'm Mahaut</h1>
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&leet_logo=hide&login=malatini)]
-<p align="center"> You find here my school and own projects.
-Feel free to have a look.
-</p>
+<p align="center"> You find here my school and own projects. Feel free to have a look.</p>
 <!--
 **malatini42/malatini42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
