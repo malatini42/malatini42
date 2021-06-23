@@ -1,6 +1,7 @@
 ### Presentation 👋
 
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&leet_logo=hide&login=malatini)](https://linkedin.com/in/mahautlatinis)
+[![malatini's 42 stats](https://badge42.herokuapp.com/api/stats/malatini)](https://github.com/JaeSeoKim/badge42)
+* **Mahaut Latinis** _alias_ [@malatini](https://profile.intra.42.fr/users/malatini)
 
 <h1 align="center">I'm Mahaut</h1>
 <p align="center"> You find here my school and own projects. Feel free to have a look.</p>
